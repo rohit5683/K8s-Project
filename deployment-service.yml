@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: suneel
-        image: rohit5683/feb-docker:latest
+        image: rohit5683/feb-docker
         ports:
         - containerPort: 3000   # Use port 3000
 
