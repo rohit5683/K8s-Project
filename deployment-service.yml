@@ -14,8 +14,8 @@ spec:
         app: rohit
     spec:
       containers:
-      - name: rohit
-        image: rohit5683/feb-docker
+      - name: zomato
+        image: sunil09/feb-docker:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
